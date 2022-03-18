@@ -45,6 +45,8 @@
                   v-model="formStepTwoValidate"
                   lazy-validation
                 >
+                  <p></p>
+                  <p></p>
                   <v-text-field
                     dense
                     v-model="nameAd"

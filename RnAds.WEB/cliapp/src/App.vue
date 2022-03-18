@@ -293,8 +293,7 @@ export default {
           this.allAdsCount=data.countAds;
         } else console.log("Status: ", r.status);
       }
-
-      this.$router.push(`/search/${this.typeAd}`);
+      this.$router.push(`/search/${typeAd}`);
     },
     async fetchGetUser() {
       const token = sessionStorage.getItem("accessToken");
