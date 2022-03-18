@@ -9,6 +9,17 @@ ____
 ## Главная страница 
 ![основная страница](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BC%D0%B5%D0%BD%D1%8E.png)
 
+### При открытии объявления пользователь увидит основную информацию объявления
+![основная страница](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%201.png)
+
+### При клики на кнопку "Позвонить" пользователь увидит контакты владельца объявления:
+![основная страница](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%202.png)
+
+### При клики на кнопку "Наисать" для авторизованного поьзователя откроется форма отправки сообщения:
+![основная страница](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%203.png)
+
+### Все отправленные и полученные от других авторизованных пользователей сообщения можно увидить во вкладке "Сообщения"
+
 ## Регистрация нового пользователя 
 ![регистрация](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%201.png)
 
@@ -54,3 +65,36 @@ ____
 
 ### При клике на "Сообщения" пользователь увидит диалоги и сообщения с другими зарегистрированными пользователями:
 ![сообщения](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%201.png)
+
+### Обмен сообщениями происходит в режиме реального времени:
+![сообщения](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%202.png)
+
+## Добавления нового объявления 
+
+### Выбираем тип нового объявления
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%201.png)
+
+### Заполняем информацию объявления (в зависимости от типа объявления поля формы разные)
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%202.png)
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%203.png)
+
+### Выбираем фотографии нового объявления
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%204.png)
+
+### После успешного создания объявления на главной странице мы увидим новое объявление
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%205.png)
+
+### Так же на вкладке "Мои объявления" мы увидим ,добавленное пользователем, объявление
+![новое объявления](https://github.com/E-A-Volobuev/RdAds/blob/master/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D1%82%D1%8C%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%206.png)
+
+## Профиль пользователя 
+
+### При клике на "Мой профиль" пользователь увидит форму редактирования данных профиля:
+![профиль](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F.png)
+
+## Поиск объявлений
+
+### Для поиска объявлений пользователь может указать категорию, ввести ключевые слова, отметить "только с фото" и выбрать регион поиска:
+![поиск](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%202.png)
+
+![поиск](https://github.com/E-A-Volobuev/RdAds/blob/master/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%201.png)
