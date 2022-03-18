@@ -185,7 +185,7 @@
                   <v-divider></v-divider>
 
                   <v-card-text>
-                    Здесь комментарий к объявлению: {{ ad.comment }}
+                  {{ ad.comment }}
                   </v-card-text>
                 </div>
               </v-expand-transition>
